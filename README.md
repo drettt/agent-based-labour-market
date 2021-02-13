@@ -10,3 +10,6 @@ This project inlcudes an agent-based labour market model coded in NetLogo that i
 4. In the analysis folder is the `R` code to analyse the data (also in the folder) and to generate the graphs seen in the final report.
 
 
+[
+<img width="624" alt="Screenshot 2021-02-13 at 15 43 35" src="https://user-images.githubusercontent.com/70483538/107854366-42423000-6e13-11eb-9b97-c02886aa0891.png">
+](url)
