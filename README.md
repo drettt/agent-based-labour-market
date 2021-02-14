@@ -13,3 +13,5 @@ This project inlcudes an agent-based labour market model coded in NetLogo that i
 [
 <img width="624" alt="Screenshot 2021-02-13 at 15 43 35" src="https://user-images.githubusercontent.com/70483538/107854366-42423000-6e13-11eb-9b97-c02886aa0891.png">
 ](url)
+
+![results unem dur 1](https://user-images.githubusercontent.com/70483538/107873106-af9fa080-6ea7-11eb-9654-64288801b180.png)
