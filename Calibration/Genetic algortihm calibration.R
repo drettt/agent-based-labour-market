@@ -5,14 +5,14 @@ library(nlrx)
 
 
 nl <- nl(nlversion = "6.1.1",
-         nlpath = "/Users/daniel/Desktop/NetLogo 6.1.1",
-         modelpath = "/Users/daniel/OneDrive - University of Warwick/Dissertation/final model.nlogo")
+         nlpath = " ",
+         modelpath = " ")
 
 ?experiment
 
 #numbers for north region
 nl@experiment <- experiment(expname="genalg_diss_1.txt",
-                            outpath = "/Users/daniel/OneDrive - University of Warwick/Dissertation/diss analysis/",
+                            outpath = " ",
                             repetition=1,
                             tickmetrics="true",
                             idsetup="setup",
