@@ -3,13 +3,13 @@ library(future)
 library(dplyr)
 
 nl <- nl(nlversion = "6.1.1",
-         nlpath = "/Users/daniel/Desktop/NetLogo 6.1.1",
-         modelpath = "/Users/daniel/OneDrive - University of Warwick/Dissertation/final model.nlogo")
+         nlpath = " ",
+         modelpath = " "
 
 #no variables
 #constants for north
 nl@experiment <- experiment(expname="diss_sim_north.txt",
-                            outpath = "/Users/daniel/OneDrive - University of Warwick/Dissertation/diss analysis/",
+                            outpath = " ",
                             repetition=1,
                             tickmetrics="true",
                             idsetup="setup",
